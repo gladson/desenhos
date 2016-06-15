@@ -158,3 +158,6 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/LNTNVRDASAEP1
 
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/zEdjsboaUZk/hqdefault.jpg" group-title="LANTERNA 1T" , 13EP
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer02/ondemand/LNTNVRDASAEP13.mp4
+
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/EgrxcoVBL3o/hqdefault.jpg" group-title="BOKU HERO ACADEMIA" , 01EP
+http://storage1.animesfox-br.x2n.com.br/temporadaabril/Bokuheronoacademia/b1.mp4
